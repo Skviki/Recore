@@ -21,6 +21,9 @@
       <None Update="version">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
+      <None Update="icon-update.svg">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
 </Project>
