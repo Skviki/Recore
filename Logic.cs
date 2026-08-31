@@ -156,7 +156,6 @@ public class Logic
         process.Start();
         process.WaitForExit();
     }
-
     public static string FastPath(string path) =>
         Path.Combine(AppContext.BaseDirectory, path.TrimStart('/', '\\'));
 }
