@@ -1,5 +1,3 @@
-![Recor Logo](logo.svg)
-
 # Recor
 
 Recor is a simple screen recording program with a straightforward interface.
