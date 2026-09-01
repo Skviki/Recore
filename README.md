@@ -1,4 +1,4 @@
-![Recor Logo](logo.png)
+![Recor Logo](logo.svg)
 
 # Recor
 
